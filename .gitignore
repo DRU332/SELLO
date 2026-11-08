@@ -39,3 +39,12 @@ yarn-error.log*
 # typescript
 *.tsbuildinfo
 next-env.d.ts
+
+# Sellos
+credenciales-demo.txt
+.local-stack/
+.env*.local
+test-results/
+
+# Plantilla sin secretos
+!.env.example
