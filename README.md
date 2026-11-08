@@ -9,6 +9,8 @@ Sellos es una app web para cafés, fondas y negocios pequeños. Cada negocio tie
 
 Todo está en español de México, con precios en MXN y hora del centro de México (`America/Mexico_City`).
 
+![Recorrido de Sellos en un celular](docs/recorrido.png)
+
 > ⚠️ **Antes de usarla con clientes reales**, pide a un abogado que revise el aviso de privacidad y los términos. Los textos incluidos son un **borrador** y así se indica en la app.
 
 ---
